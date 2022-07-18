@@ -10,6 +10,6 @@ About Me:
 - LinkedIn: https://www.linkedin.com/in/kumar-utsav-34914a221
 - Instagram: kumar_utsav_
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KumarUtsav1025)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KumarUtsav1025&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarUtsav1025&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
