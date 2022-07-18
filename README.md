@@ -12,4 +12,4 @@ About Me:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KumarUtsav1025&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarUtsav1025&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarUtsav1025&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
