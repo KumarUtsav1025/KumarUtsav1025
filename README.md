@@ -1,10 +1,10 @@
-### Hi there 👋
+##Hi there 👋
 
 <!--
 **KumarUtsav1025/KumarUtsav1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- Electrical Engineer by Profession, Coder and Developer by Choice.
 - 🔭 I’m currently working on App Development using Flutter
 - 🌱 I’m currently learning DSA in C++
 - 💬 Ask me about Coding and Development
