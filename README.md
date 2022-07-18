@@ -9,8 +9,8 @@ About Me:
 - 😄 Pronouns: He/Him
 - LinkedIn: https://www.linkedin.com/in/kumar-utsav-34914a221
 - Instagram: kumar_utsav_
-- 
-![](https://komarev.com/ghpvc/?username=TreavVasu&color=green)
+
+![](https://komarev.com/ghpvc/?username=KumarUtsav1025&color=green)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KumarUtsav1025&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
