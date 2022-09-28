@@ -9,7 +9,7 @@ About Me:
 - 💬 Ask me about Coding and Development
 - 📫 How to reach me: utsavkumar.9749@gmail.com
 - 😄 Pronouns: He/Him
-- LinkedIn: https://www.linkedin.com/in/kumar-utsav-34914a221
+- LinkedIn: https://www.linkedin.com/in/kumar-utsav-flutdev
 - Instagram: kumar_utsav_
 
 ![](https://komarev.com/ghpvc/?username=KumarUtsav1025&color=green)
