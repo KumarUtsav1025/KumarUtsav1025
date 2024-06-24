@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=KumarUtsav1025&color=green)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
@@ -20,18 +22,23 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
+
 ---
-About Me:
-- Electrical Engineer by Profession, Coder and Developer by Choice.
-- 🔭 I’m currently working on App Development using Flutter
-- 🌱 I’m currently learning DSA in C++
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KumarUtsav1025&theme=darcula">
+    <img align="right" width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KumarUtsav1025&theme=darcula">
+</picture>
+
+<p>
+  My name is Kumar Utsav. <br> Final year B.Tech undergrad at National Institute of Technology Raipur.
+</p>
+
+- Electrical Engineer by Profession, Developer by Choice.
+- 🔭 I’m currently working on Full Stack App Development
+- 🌱 Exploring the domain of machine learning
 - 💬 Ask me about Coding and Development
 - 📫 How to reach me: utsavkumar.9749@gmail.com
-- 😄 Pronouns: He/Him
-- LinkedIn: https://www.linkedin.com/in/kumar-utsav-flutdev
-- Instagram: kumar_utsav_
-
-![](https://komarev.com/ghpvc/?username=KumarUtsav1025&color=green)
 
 ---
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -53,8 +60,26 @@ About Me:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/> 
 </p>
 
+---
+
+###
+
+<h3 align="left">🔥   My Stats</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KumarUtsav1025&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<p></p>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KumarUtsav1025&theme=darcula"/>
+</div>
+
+###
 
 ---
+
 [![An image of @utsavkumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utsavkumar)](https://holopin.io/@utsavkumar)
 
 
